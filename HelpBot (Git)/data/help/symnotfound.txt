@@ -1,0 +1,5 @@
+Use this if you get a "Cannot Find Symbol" error.
+
+This error will usually occur if you didn't import a class properly or are trying to access a non-existent variable.
+e.g. Using DialogueHandler in package 'arbit.pkg' without importing it, 'import arbit.pkg' at the start of the file.
+Read more: https://www.moparscape.org/smf/index.php/topic,438121.0.html#post_cntfindsymbl

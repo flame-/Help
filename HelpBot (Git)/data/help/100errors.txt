@@ -1,0 +1,5 @@
+Use this if you get 100 errors when you compile your server.
+
+This error will usually occur if you are missing a brace ({ or }) somewhere.
+I would recommend using an IDE to pin-point the location.
+Read more: https://www.moparscape.org/smf/index.php/topic,438121.0.html#post_hundrederrors

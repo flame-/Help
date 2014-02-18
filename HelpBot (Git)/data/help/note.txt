@@ -1,0 +1,4 @@
+If you get something like "Note: ..." or "Note: Recompile with ...".
+
+This is not an error and should not cause any harm to your code.
+Read more: https://www.moparscape.org/smf/index.php/topic,438121.0.html#post_notes

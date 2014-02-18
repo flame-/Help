@@ -1,0 +1,4 @@
+If you get a "Variable has Private Access" error.
+
+The variable you're trying to access isn't available in the given scope, try modifying its scope (ie change private to public).
+Read more: https://www.moparscape.org/smf/index.php/topic,438121.0.html#post_prvteaccess
