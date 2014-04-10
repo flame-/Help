@@ -1,7 +1,7 @@
 Help
 =======
 
-An IRC help bot for MoparScape.
+An IRC help bot.
 
 ## Usage
 To initialise the help command responses, place any help files in ./data/help/.
